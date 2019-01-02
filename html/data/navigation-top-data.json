@@ -1,0 +1,19 @@
+{
+  "links": [
+    {
+      "url": "#",
+      "text": "The Vintages",
+      "image": ""
+    },
+    {
+      "url": "#",
+      "text": "",
+      "image": "../assets/logo.svg"
+    },
+    {
+      "url": "#",
+      "text": "Latest Release",
+      "image": ""
+    }
+  ]
+}
