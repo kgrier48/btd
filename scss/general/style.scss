@@ -1,3 +1,28 @@
-//global settings
+
+//variables
+@import '_variables.scss';
+
+//base rules
 @import '_text.scss';
 @import '_buttons.scss';
+@import '_elements.scss';
+
+
+
+@font-face {
+    font-family: 'ChunkFive';
+    src: url('/assets/fonts/ChunkFive-Roman.woff2') format('woff2'),
+        url('/assets/fonts/ChunkFive-Roman.woff') format('woff'),
+        url('/assets/fonts/ChunkFive-Roman.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Birch';
+    src: url('/assets/fonts/Birch.woff2') format('woff2'),
+        url('/assets/fonts/Birch.woff') format('woff'),
+        url('/assets/fonts/Birch.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
